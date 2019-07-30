@@ -1,0 +1,1 @@
+A simple web-app to demonstrate how to use multiple MySQL datasources in a Spring Boot project.
